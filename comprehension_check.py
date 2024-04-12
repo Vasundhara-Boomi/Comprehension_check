@@ -1,6 +1,5 @@
 import app
 import streamlit as st
-import speech_recognition as sr
 from googletrans import LANGUAGES, Translator
 
 def page_1():
